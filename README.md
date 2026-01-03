@@ -1,4 +1,4 @@
-Web3 Basics – Hands-On Assignment
+Web3-and-Blockchain-Basics-Setup-Wallet-and-Explore-DApps – Hands-On Assignment
 
 This repository contains the complete submission for the Web3 Basics Hands-On Assignment, which focuses on gaining practical experience with blockchain technology, Web3 concepts, crypto wallets, test networks, and decentralized applications (DApps).
 
